@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tusharika Mehta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img src = "https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664" alt="">
+<img align = "right" alt = "coding" width = "400" src = "[https://dribbble.com/shots/2413754-Coding.gif](https://tenor.com/bUHIQ.gif)" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharika13&label=Profile%20views&color=0e75b6&style=flat" alt="tusharika13" /> </p>
 
